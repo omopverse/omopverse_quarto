@@ -12,4 +12,8 @@ About this site
 sqrt(9)
 ```
 
+```{r}
+x <- 1
+x |> mean()
+```
 
