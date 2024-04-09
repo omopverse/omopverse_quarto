@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "omopverse_quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThe omopverse is a set of …\ntest if deployment is automatic"
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#my-package",
+    "href": "index.html#my-package",
+    "title": "omopverse_quarto",
+    "section": "My package",
+    "text": "My package\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThe omopverse is a set of …\ntest if deployment is automatic"
   }
 ]
