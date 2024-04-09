@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "omopverse_quarto"
+  title: "Omopverse/tidyomop"
   navbar:
     left:
       - href: index.qmd
